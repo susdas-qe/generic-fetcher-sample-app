@@ -1,4 +1,4 @@
-FROM ibmjava:11-jdk
+FROM docker.io/library/ibmjava:11-jdk
 
 WORKDIR /tmp
 
